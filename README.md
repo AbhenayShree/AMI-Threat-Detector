@@ -26,3 +26,7 @@ explainer.ipynb`: SHAP explainability (optional)
 ## Results
 Achieved 92% accuracy and 0.97 AUC
 Reduced false positives with hybrid approach
+
+
+[AMI THREAT DETECTOR DOCUMENTATION.pdf](https://github.com/user-attachments/files/22759507/AMI.THREAT.DETECTOR.DOCUMENTATION.pdf)
+
